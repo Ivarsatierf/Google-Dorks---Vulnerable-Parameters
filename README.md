@@ -23,8 +23,9 @@ inurl:http | inurl:url= | inurl:path= | inurl:dest= | inurl:html= | inurl:data= 
 ```
 inurl:include | inurl:dir | inurl:detail= | inurl:file= | inurl:folder= | inurl:inc= | inurl:locate= | inurl:doc= | inurl:conf= inurl:& site:example[.]com
 ```
-```
+
 ### ⛔️RCE Prone Parameters
+```
 inurl:cmd | inurl:exec= | inurl:query= | inurl:code= | inurl:do= | inurl:run= | inurl:read=  | inurl:ping= inurl:& site:example[.]com
 ```
 
